@@ -1,8 +1,9 @@
 Errs2slack
 
 Prerequisites:
+python 3+
 
-You need this great inferface from 
+You also need this great inferface from 
 https://github.com/os/slacker
 to make things work
 
